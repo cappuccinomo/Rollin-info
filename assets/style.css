@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 3px solid rgb(0, 0, 0);
+    padding-bottom: 10px;
+    text-align: center;
+    flex-direction: column;
+}
+
+header h1 {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    font-size: 36px;
+    padding-bottom: 10px;
+}
+
+header nav ul li {
+    display: inline;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0 20px;
+    /* padding: 57px 0;
+  border: 3px solid green;
+  text-align: center; */
+}
+
+/*
+nav {
+    padding: 57px 0;
+  border: 3px solid green;
+  text-align: center;
+} 
+*/
